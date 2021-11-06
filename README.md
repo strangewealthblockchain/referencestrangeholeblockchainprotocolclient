@@ -1,2 +1,2 @@
-# referencestrangeholeblockchainprotocolclient
-The reference Strangehole blockchain Protocol client
+# referencestrangewealthblockchainprotocolclient
+The reference Strangewealth blockchain Protocol client
